@@ -1,5 +1,5 @@
 # Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE - DIO
-Este é um projeto dentro do bootcamp "Heineken - Inteligência Artificial Aplicada a Dados com Copilot" da DIO onde iremos criar um Projeto Conceitual de Banco de Dados utilizando o MySQL Workbench para representar um banco de dados  de um E-commerce.
+Este é um projeto dentro do bootcamp "Heineken - Inteligência Artificial Aplicada a Dados com Copilot" da DIO onde criei um Projeto Conceitual de Banco de Dados utilizando o MySQL Workbench para representar um banco de dados  de um E-commerce.
 
 # Projeto de banco de dados de e-Commerce
 - Contexto: Levantamento de requisitos
